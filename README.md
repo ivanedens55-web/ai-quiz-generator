@@ -163,4 +163,4 @@ Questions are generated fresh every time, so the same topic gives a different qu
 
 ## License
 
-Add a license of your choice (for example MIT) before publishing.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
