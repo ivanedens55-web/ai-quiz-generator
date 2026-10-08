@@ -113,7 +113,7 @@ Open `.env` and paste your key:
 GEMINI_API_KEY=your_actual_key_here
 ```
 
-The app uses `gemini-3.5-flash` by default. To use a different model, add a line such as `GEMINI_MODEL=gemini-2.5-flash` to `.env`. Available models are listed in the [Gemini models documentation](https://ai.google.dev/gemini-api/docs/models).
+The app uses `gemini-3.5-flash` by default. To use a different model, add a line such as `GEMINI_MODEL=gemini-3.1-flash-lite` to `.env`. Available models are listed in the [Gemini models documentation](https://ai.google.dev/gemini-api/docs/models).
 
 `.env` is listed in `.gitignore`, so your key stays on your machine.
 
